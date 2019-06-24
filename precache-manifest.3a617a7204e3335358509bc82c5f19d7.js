@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/bns-project/static/media/OpenSans-Regular.629a55a7.ttf"
   },
   {
-    "revision": "92db9a0772b3732e6d686fec3711af42",
-    "url": "/bns-project/static/media/Montserrat-Regular.92db9a07.otf"
-  },
-  {
     "revision": "33f225b8f5f7d6b34a0926f58f96c1e9",
     "url": "/bns-project/static/media/OpenSans-Semibold.33f225b8.ttf"
+  },
+  {
+    "revision": "92db9a0772b3732e6d686fec3711af42",
+    "url": "/bns-project/static/media/Montserrat-Regular.92db9a07.otf"
   },
   {
     "revision": "d815b0a29adf3450c55f56e2fb813be4",
