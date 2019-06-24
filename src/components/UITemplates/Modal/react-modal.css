@@ -1,0 +1,37 @@
+.ReactModal__Body--open{
+	overflow: hidden;
+}
+.React__Modal__Overlay{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color:rgba(0,0,0,.85);
+	z-index: 2;
+	overflow: scroll;
+}
+.React__Modal__Content{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 100vw;
+	min-width: 320px;
+	max-width: 768px;
+	min-height: 100vh;
+	background-color: rgba(255,255,255,1);
+	outline:none;
+	border-radius: 6px;
+}
+
+@media(min-width:768px){
+	.React__Modal__Content{
+		margin: 150px 0 20px;
+		min-height: 95vh;
+	}
+}
+
+.React__Modal__Content header {
+	border-top-left-radius: inherit;
+	border-top-right-radius: inherit;
+}
