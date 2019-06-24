@@ -1,14 +1,14 @@
 {
-  "main.css": "/bns-project/static/css/main.1edf05cb.chunk.css",
-  "main.js": "/bns-project/static/js/main.948946ab.chunk.js",
-  "main.js.map": "/bns-project/static/js/main.948946ab.chunk.js.map",
+  "main.css": "/bns-project/static/css/main.ad168008.chunk.css",
+  "main.js": "/bns-project/static/js/main.f09ae8a8.chunk.js",
+  "main.js.map": "/bns-project/static/js/main.f09ae8a8.chunk.js.map",
   "runtime~main.js": "/bns-project/static/js/runtime~main.0cc404ca.js",
   "runtime~main.js.map": "/bns-project/static/js/runtime~main.0cc404ca.js.map",
   "static/js/2.7eda8a18.chunk.js": "/bns-project/static/js/2.7eda8a18.chunk.js",
   "static/js/2.7eda8a18.chunk.js.map": "/bns-project/static/js/2.7eda8a18.chunk.js.map",
   "index.html": "/bns-project/index.html",
-  "precache-manifest.3a617a7204e3335358509bc82c5f19d7.js": "/bns-project/precache-manifest.3a617a7204e3335358509bc82c5f19d7.js",
+  "precache-manifest.78904ce1d13c29a3db7de5c1f0b71d87.js": "/bns-project/precache-manifest.78904ce1d13c29a3db7de5c1f0b71d87.js",
   "service-worker.js": "/bns-project/service-worker.js",
-  "static/css/main.1edf05cb.chunk.css.map": "/bns-project/static/css/main.1edf05cb.chunk.css.map",
+  "static/css/main.ad168008.chunk.css.map": "/bns-project/static/css/main.ad168008.chunk.css.map",
   "static/media/App.css": "/bns-project/static/media/WorkSans-Regular.f44235f9.otf"
 }

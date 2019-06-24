@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "074190d5635b617683b2",
-    "url": "/bns-project/static/css/main.1edf05cb.chunk.css"
+    "revision": "98a5701c7438edcc1305",
+    "url": "/bns-project/static/css/main.ad168008.chunk.css"
   },
   {
-    "revision": "074190d5635b617683b2",
-    "url": "/bns-project/static/js/main.948946ab.chunk.js"
+    "revision": "98a5701c7438edcc1305",
+    "url": "/bns-project/static/js/main.f09ae8a8.chunk.js"
   },
   {
     "revision": "7b86681df4d79b4e16f7",
@@ -28,19 +28,19 @@ self.__precacheManifest = [
     "url": "/bns-project/static/media/OpenSans-Regular.629a55a7.ttf"
   },
   {
-    "revision": "33f225b8f5f7d6b34a0926f58f96c1e9",
-    "url": "/bns-project/static/media/OpenSans-Semibold.33f225b8.ttf"
-  },
-  {
     "revision": "92db9a0772b3732e6d686fec3711af42",
     "url": "/bns-project/static/media/Montserrat-Regular.92db9a07.otf"
+  },
+  {
+    "revision": "33f225b8f5f7d6b34a0926f58f96c1e9",
+    "url": "/bns-project/static/media/OpenSans-Semibold.33f225b8.ttf"
   },
   {
     "revision": "d815b0a29adf3450c55f56e2fb813be4",
     "url": "/bns-project/static/media/Montserrat-Medium.d815b0a2.otf"
   },
   {
-    "revision": "ed3f1163d091b167c582219c67b3b2bf",
+    "revision": "02725dc329c8960ad3de2dee0a991ca8",
     "url": "/bns-project/index.html"
   }
 ];
