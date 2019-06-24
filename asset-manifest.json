@@ -1,14 +1,14 @@
 {
-  "main.css": "/bns/static/css/main.433981b4.chunk.css",
-  "main.js": "/bns/static/js/main.8afbcbf9.chunk.js",
-  "main.js.map": "/bns/static/js/main.8afbcbf9.chunk.js.map",
-  "runtime~main.js": "/bns/static/js/runtime~main.830483dc.js",
-  "runtime~main.js.map": "/bns/static/js/runtime~main.830483dc.js.map",
-  "static/js/2.4a8012e6.chunk.js": "/bns/static/js/2.4a8012e6.chunk.js",
-  "static/js/2.4a8012e6.chunk.js.map": "/bns/static/js/2.4a8012e6.chunk.js.map",
-  "index.html": "/bns/index.html",
-  "precache-manifest.da2c0ae063b390a648f8836de0c5aa92.js": "/bns/precache-manifest.da2c0ae063b390a648f8836de0c5aa92.js",
-  "service-worker.js": "/bns/service-worker.js",
-  "static/css/main.433981b4.chunk.css.map": "/bns/static/css/main.433981b4.chunk.css.map",
-  "static/media/App.css": "/bns/static/media/WorkSans-Regular.f44235f9.otf"
+  "main.css": "/bns-project/static/css/main.1edf05cb.chunk.css",
+  "main.js": "/bns-project/static/js/main.948946ab.chunk.js",
+  "main.js.map": "/bns-project/static/js/main.948946ab.chunk.js.map",
+  "runtime~main.js": "/bns-project/static/js/runtime~main.0cc404ca.js",
+  "runtime~main.js.map": "/bns-project/static/js/runtime~main.0cc404ca.js.map",
+  "static/js/2.7eda8a18.chunk.js": "/bns-project/static/js/2.7eda8a18.chunk.js",
+  "static/js/2.7eda8a18.chunk.js.map": "/bns-project/static/js/2.7eda8a18.chunk.js.map",
+  "index.html": "/bns-project/index.html",
+  "precache-manifest.01a42ddb3d7b575eb34545670463c36d.js": "/bns-project/precache-manifest.01a42ddb3d7b575eb34545670463c36d.js",
+  "service-worker.js": "/bns-project/service-worker.js",
+  "static/css/main.1edf05cb.chunk.css.map": "/bns-project/static/css/main.1edf05cb.chunk.css.map",
+  "static/media/App.css": "/bns-project/static/media/WorkSans-Regular.f44235f9.otf"
 }
