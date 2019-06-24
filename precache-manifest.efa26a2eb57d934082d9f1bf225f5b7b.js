@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "98a5701c7438edcc1305",
-    "url": "/bns-project/static/css/main.ad168008.chunk.css"
+    "revision": "b88f31f94279bf88873a",
+    "url": "/bns-project/static/css/main.8ffa9db4.chunk.css"
   },
   {
-    "revision": "98a5701c7438edcc1305",
-    "url": "/bns-project/static/js/main.f09ae8a8.chunk.js"
+    "revision": "b88f31f94279bf88873a",
+    "url": "/bns-project/static/js/main.0065c986.chunk.js"
   },
   {
     "revision": "7b86681df4d79b4e16f7",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/bns-project/static/media/Montserrat-Medium.d815b0a2.otf"
   },
   {
-    "revision": "02725dc329c8960ad3de2dee0a991ca8",
+    "revision": "648d7432161a85919895241f47cabc34",
     "url": "/bns-project/index.html"
   }
 ];
